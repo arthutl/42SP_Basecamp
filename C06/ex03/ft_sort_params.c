@@ -47,7 +47,7 @@ int	main (int argc, char *argv[])
 {
 	int		rows;
 	int		next_row;
-	char	*aux;
+	char		*aux;
 
 	rows = 0;
 	while (rows < argc)
